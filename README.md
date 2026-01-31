@@ -45,6 +45,6 @@ This project focuses on improving sustainability and city livability through dat
 
 ## 🔗 Full Project Documentation (Notion)
 
-View Complete Project Details on Notion (PASTE-YOUR-NOTION-LINK-HERE)
+[View Complete Project Details on Notion](https://lace-parsnip-ea8.notion.site/My-Computer-Science-Portfolio-2f71adf6822d806c9ea6e3067133e59d?source=copy_link)
 
 
