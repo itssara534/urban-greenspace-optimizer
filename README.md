@@ -2,7 +2,7 @@
 
 Urban Greenspace Optimizer is a console-based C++ project designed to support smarter urban planning by optimizing the allocation of green spaces such as parks, gardens, and recreational areas.
 
-This project focuses on improving sustainability and city livability through algorithmic decision-making.
+This project focuses on improving sustainability and city livability through data structures and algorithmic decision-making.
 
 
 
